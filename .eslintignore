@@ -3,7 +3,7 @@
 build/*
 contracts/*
 contracts-test/*
-coverage/*
+coverag
 lib/*
 scripts/coverage.js
 tmp
